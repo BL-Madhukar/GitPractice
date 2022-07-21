@@ -1,0 +1,4 @@
+INFO  | 2022-07-21 20:00:15 | [main] JavaDemo.App (App.java:17) - Hello Java
+WARN  | 2022-07-21 20:00:15 | [main] JavaDemo.App (App.java:18) - Hello Java
+ERROR | 2022-07-21 20:00:15 | [main] JavaDemo.App (App.java:19) - Hello Java
+FATAL | 2022-07-21 20:00:15 | [main] JavaDemo.App (App.java:20) - Hello Java
