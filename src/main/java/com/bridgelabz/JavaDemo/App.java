@@ -13,11 +13,11 @@ public class App
     public static void main( String[] args )
     {
     	String message = "Hello Java";
-    	LOG.debug(message, " will be printed on debug");
-    	LOG.info(message, " will be printed on info");
-    	LOG.warn(message, " will be printed on warn");
-    	LOG.error(message, " will be printed on error");
-    	LOG.fatal(message, " will be printed on fatal");
+    	LOG.debug(message, " will be printed on debug 1");
+    	LOG.info(message, " will be printed on info 1");
+    	LOG.warn(message, " will be printed on warn 1");
+    	LOG.error(message, " will be printed on error 1");
+    	LOG.fatal(message, " will be printed on fatal 1");
         System.out.println("Hello world");
     }
 }
